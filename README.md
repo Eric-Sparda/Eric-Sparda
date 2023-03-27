@@ -1,5 +1,5 @@
 # 💫 About Me: Hi I'm Eric
-Currently studying Python and C++<br>Python Back-End developer, Django, ML/Ai
+Currently studying Python and C++<br>Python Back-End developer, Django, ML/AI
 
 
 # 💻 Tech Stack:
