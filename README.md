@@ -14,4 +14,3 @@ Currently studying Python and C++<br>Python Back-End developer, Django, ML/AI
 
 ---
 ![](https://visitcount.itsvg.in/api?id=Eric-Sparda&icon=2&color=10)
-![](https://komarev.com/ghpvc/?username=your-github-Eric-Sparda)
