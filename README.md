@@ -13,5 +13,5 @@ Currently studying Python and C++<br>Python Back-End developer, Django, ML/AI
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Sparda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-<!-- ![](https://visitcount.itsvg.in/api?id=Eric-Sparda&icon=2&color=10) -->
+![](https://visitcount.itsvg.in/api?id=Eric-Sparda&icon=2&color=10)
 ![](https://komarev.com/ghpvc/?username=your-github-Eric-Sparda)
