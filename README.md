@@ -12,9 +12,6 @@ About Me: Hi I'm Eric<br>Currently studying Python, Django, ML/AI and C++<br>I a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eric-Sparda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Sparda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eric-Sparda&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
 ![](https://visitcount.itsvg.in/api?id=Eric-Sparda&icon=2&color=10)
 
