@@ -6,7 +6,7 @@ Currently studying Python, Django, ML/AI and C++<br>I am a Back-End developer<br
 </p>
 
 # Code Wars:
-[![codewars](URL:https://www.codewars.com/users/Eric-Sparda/badges/large)](https://www.codewars.com/users/Eric-Sparda)
+[![codewars](https://www.codewars.com/users/Eric-Sparda/badges/large)](https://www.codewars.com/users/Eric-Sparda)
 
 # Code Wars:
 [![codewars](https://www.codewars.com/users/ArturGalstyan96/badges/large)](https://www.codewars.com/users/ArturGalstyan96)
