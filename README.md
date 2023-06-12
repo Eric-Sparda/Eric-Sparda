@@ -6,7 +6,7 @@ Currently studying Python, Django, ML/AI and C++<br>I am a Back-End developer<br
 </p>
 
 # Code Wars:
-[![codewars][s://www.codewars.com/users/Eric_Sparda/badges/large]](https://www.codewars.com/users/Eric-Sparda)
+[![codewars][https://www.codewars.com/users/Eric_Sparda/badges/large]](https://www.codewars.com/users/Eric-Sparda)
 
 # 💻 Tech Stack:
 # 👨‍💻 Programming languages:
