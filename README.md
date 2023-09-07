@@ -1,9 +1,5 @@
 # 💫 About Me: Hi I'm Eric
-<br>I am a Python/Django Back-End developer<br>Currently studying C++
-
-## 🌐 Socials:
-<a href="https://linkedin.com/in/eric-yeghiazaryan-356169271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eric-yeghiazaryan-356169271" height="30" width="40" /></a>
-</p>
+<br>I am a Python/Django Back-End developer<br>Currently studying JavaScript
 
 # 💻 Tech Stack:
 # 👨‍💻 Programming languages:
